@@ -1763,7 +1763,7 @@
       "cs": "Ruthenium"
     },
     "Rhenium": {
-      "es": null,
+      "es": "Renio",
       "pt": "Rênio",
       "de": "Rhenium",
       "fr": "Rhénium",
@@ -3365,7 +3365,7 @@
       "cs": "Tichý start"
     },
     "Search visible blueprints (by Type, Name, Grade or Engineer) - split your terms with a space for multi-criteria search": {
-      "es": null,
+      "es": "Buscar planos visibles (Por ripo, Nombre, Grado o Ingeniero) - separe sus terminos con un espacio para busqueda multi-criterio",
       "pt": "Procure diagramas disponíveis (por Tipo, Nome, Grau ou Engenheiro) - separe os termos com um espaço para pesquisa multi-critério",
       "de": "Suche nach verfügbaren Bauplänen (Begriffe durch 'Leerzeichen' trennen)",
       "fr": "Rechercher les plans de fabrications visible (par Type, Nom, Grade ou Ingénieur) - séparez vos termes avec un espace pour une recharche multi-critères",
@@ -3401,7 +3401,7 @@
       "cs": "Testovat upozornění"
     },
     "Toast": {
-      "es": null,
+      "es": "Notificación",
       "pt": "Notificação",
       "de": "Toast",
       "fr": "Notification",
@@ -3689,7 +3689,7 @@
       "cs": "Gold"
     },
     "Kamitra Cigars": {
-      "es": null,
+      "es": "Cigarrillos de Kimitra",
       "pt": "Charutos de Kamitra",
       "de": "Kamitra-Zigarren",
       "fr": "Cigares de Kamitra",
@@ -3743,7 +3743,7 @@
       "cs": "Meta-alloys"
     },
     "Painite": {
-      "es": null,
+      "es": "Painita",
       "pt": "Painita",
       "de": "Painit",
       "fr": "Painite",
@@ -3770,7 +3770,7 @@
       "cs": "Xihe Companions"
     },
     "Raw": {
-      "es": null,
+      "es": "Mineral",
       "pt": "Bruto",
       "de": "roh",
       "fr": "À l'état brut",
@@ -3779,7 +3779,7 @@
       "cs": "Surové (Raw)"
     },
     "Raw Only": {
-      "es": null,
+      "es": "Solo Mineral",
       "pt": "Apenas Bruto",
       "de": "nur roh",
       "fr": "Uniquement à l'état brut",
@@ -3887,7 +3887,7 @@
       "cs": "Data Archives"
     },
     "Encoded Firmware": {
-      "es": null,
+      "es": "Firmware codificado",
       "pt": "Firmware codificado",
       "de": "Codierte Firmware",
       "fr": "Micrologiciels encodés",
@@ -4148,7 +4148,7 @@
       "cs": "Corrosion Resistant Cargo Rack (2D and 4D)"
     },
     "Enzyme Missile Rack": {
-      "es": null,
+      "es": "Lanzamisiles de Enzimas",
       "pt": "Estante de Mísseis Enzimáticos",
       "de": "Enzym Raketenrampe",
       "fr": "Batterie de Missiles Enzymatiques",
@@ -4220,7 +4220,7 @@
       "cs": "Guardian Hybrid Power Plant"
     },
     "Meta Alloy Hull Reinforcement": {
-      "es": null,
+      "es": "Meta-aleaciones de casco reforzadas",
       "pt": "Conjunto de Reforço de Casco",
       "de": "Meta-Legierung-Hüllenverstärkung",
       "fr": "Renforcement de Coque en Méta-Alliage - Guardians",
@@ -5507,7 +5507,7 @@
       "cs": "Occupied Escape Pod"
     },
     "Progenitor Cells": {
-      "es": null,
+      "es": "Células progenitoras",
       "pt": "Células progenitoras",
       "de": "Vorläuferzellen",
       "fr": null,
